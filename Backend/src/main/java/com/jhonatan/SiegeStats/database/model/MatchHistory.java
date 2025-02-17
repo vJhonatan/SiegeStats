@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 
-@Table(name = "match_history_tb")
 @Entity
+@Table(name = "match_history_tb")
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
